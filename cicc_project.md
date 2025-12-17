@@ -171,6 +171,12 @@ The CA had to go look up the AMI ID for the right Ubuntu image: 0efc etcetera. T
 magic should be replaced with the actual lookup procedure.
 
 
+## Missing the deck
+
+
+Clean up the presentation deck and add it to this repo as a pdf or .pptx
+
+
 ```
 aws ec2 run-instances \
   --image-id ami-0efcece6bed30fd98 \
